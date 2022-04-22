@@ -1,0 +1,33 @@
+_repo: The-Demon-Trapper-of-Umbagog-A-Thrilling-Tale-of-the-Maine-Forests_67759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Daniel P. (Daniel Pierce)
+    aliases:
+    - Thompson, D. P. (Daniel Pierce)
+    - Thompson, Daniel Pierce
+    birthdate: 1795
+    deathdate: 1868
+    gutenberg_agent_id: '2270'
+    url: http://www.gutenberg.org/2009/agents/2270
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Pierce_Thompson
+description: ''
+gutenberg_issued: '2022-04-03'
+identifiers:
+  gutenberg: '67759'
+language: en
+pgterms:marc904: https://archive.org/details/demontrapperofum00thom/page/n7/mode/2up
+pgterms:marc905: 20200717163217thompsones
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Columbian Publishing Company,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests'
+url: http://www.gutenberg.org/ebooks/67759
